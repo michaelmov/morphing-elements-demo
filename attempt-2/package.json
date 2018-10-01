@@ -1,0 +1,19 @@
+{
+  "name": "attempt-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vue serve"
+  },
+  "author": "",
+  "license": "ISC"
+}

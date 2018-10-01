@@ -1,0 +1,14 @@
+{
+  "name": "morphing-elements-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass scss/main.scss style.css --watch",
+    "serve": "live-server --ignore='scss/*.scss' ./",
+    "start": "npm run scss | npm run serve"
+  },
+  "author": "Michael Movsesov",
+  "license": "ISC"
+}
