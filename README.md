@@ -8,7 +8,7 @@ A set of demos for a talk I gave at Indigo Slate about Shared Element Transition
 
 Example:
 ```
-cd attempt1
+cd attempt-3
 npm install
 npm start
 ```
